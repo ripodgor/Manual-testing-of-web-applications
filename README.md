@@ -22,7 +22,7 @@
 ##### 3.1. [```решение```](https://docs.google.com/spreadsheets/d/1Td3OHN_U5_Sx2GCicbpvf1OMcogOm7LdnYgJVbUDEEk/edit?usp=sharing)
 На основе [скриншота](https://drive.google.com/file/d/1ucv3JFqEGY7ijVtP0Qn0BrdV2ipqYu37/view) создать не менее трех баг репортов. Обратите внимание, что в данном случае, в окружении мы можем описать тот браузер, с которого проводилась бы проверка, т.е ваш актуальный браузер.
 
-##### 3.2* [```решение```](https://docs.google.com/spreadsheets/d/1Td3OHN_U5_Sx2GCicbpvf1OMcogOm7LdnYgJVbUDEEk/edit?usp=sharing)(необязательное задание).
+##### 3.2* [```решение```](https://docs.google.com/spreadsheets/d/1AOXj6cVucjn_T1-eI9MLo8zpT-ARn5PmyRH19CV89X0/edit?usp=sharing)(необязательное задание).
 Найти баг в функционале "Написать отзыв" в карточке товара и составить на него баг-репорт. Если найдете несколько - замечательно!
 
 #### Задание 4 [```решение```](https://docs.google.com/document/d/113XKT4KvSqjsNDEUUb2E2Ljl8-iBLmkc-VWWJ5nIsCw/edit?usp=sharing)
