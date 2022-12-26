@@ -1,5 +1,7 @@
 # Manual-testing-of-web-applications
-Курсовой проект к модулю "Введение в тестирование"
+
+### [Курсовой проект к модулю "Введение в тестирование"](https://docs.google.com/spreadsheets/d/1pS3h7qK2O5W0-_5njZeLxMBU9UOrDqckcHcgPZPb2cA/edit#gid=0)
+
 #### [Задание](https://github.com/netology-code/iqa-diplom/blob/main/README.md)
 #### Задание 1 [```решение```](https://docs.google.com/spreadsheets/d/1-xiAhfRif44yxPjiJaPwo90WscMuJilfVIVAqBwZIr8/edit?usp=sharing)
 Написать чек-лист для функциональной проверки [личного кабинета](https://henderson.ru/cabinet/) зарегистированного авторизованного пользователя (включая функционал разделов) на сайте https://henderson.ru/.
@@ -34,4 +36,3 @@
 Известно, что проблема в данных, которые уходят в post запросе по адресу api.mindbox.ru/v3/js/operations/, и происходит это скорее всего при работе с личными данными пользователя (например авторизация, личный кабинет, просмотр корзины).
 
 Ваша задача - изучить ответы и запросы при работе с сайтом; найти, как же выглядят параметры deviceUUID, requestId и status, и приложить скриншот искомого превью в таблицу с решениями.
-### [Курсовой проект к модулю "Введение в тестирование"](https://docs.google.com/spreadsheets/d/1pS3h7qK2O5W0-_5njZeLxMBU9UOrDqckcHcgPZPb2cA/edit#gid=0)
